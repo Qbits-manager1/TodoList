@@ -1,1 +1,1 @@
-print("To-do List project")
+print("Project : To-do List")
